@@ -1,0 +1,7 @@
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.Data\bin\Release\Solutionhead.Data.dll.config
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.Data\bin\Release\Solutionhead.Data.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.Data\bin\Release\Solutionhead.Data.pdb
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.Data\bin\Release\Solutionhead.Core.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.Data\obj\Release\Solutionhead.Data.csprojResolveAssemblyReference.cache
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.Data\obj\Release\Solutionhead.Data.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.Data\obj\Release\Solutionhead.Data.pdb

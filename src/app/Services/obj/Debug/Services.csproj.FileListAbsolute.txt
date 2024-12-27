@@ -1,0 +1,5 @@
+E:\Repos\SolutionheadLibs\src\app\Services\bin\Debug\Solutionhead.Services.dll
+E:\Repos\SolutionheadLibs\src\app\Services\bin\Debug\Solutionhead.Services.pdb
+E:\Repos\SolutionheadLibs\src\app\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Repos\SolutionheadLibs\src\app\Services\obj\Debug\Solutionhead.Services.dll
+E:\Repos\SolutionheadLibs\src\app\Services\obj\Debug\Solutionhead.Services.pdb

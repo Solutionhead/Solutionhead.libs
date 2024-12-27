@@ -1,0 +1,34 @@
+2:08 PM 6/25/2014
+
+Prepare the project:
+Set Assembly/File version info in project properties\Assembly Information...
+Set the AssemblyInformationalVersion in the proejct properties AssemblyInfo.cs file.
+
+Creting nuspec file for project:
+Copy nuget.exe to the project folder (where the.csproj is located), likely from the .nuget folder at the root somewhere.
+From the command line, run "nuget spec" - this will generate the .nuspec file.
+You can edit the file to set package dependencies - example:
+
+<package>
+<metadata>
+...
+<dependencies>
+      <dependency id="Solutionhead.Data" version="1.4.7" />
+      <dependency id="EntityFramework" version="6.1.0" />
+</dependencies>
+</metadata>
+</package>
+
+You can use combinations of " or [] to constrain the dependency to a range of versions or specific versions. Double quotes is by default "greater than or equal to."
+
+Create package:
+From the command line, run "nuget pack MyProj.csproj -Prop Configuration=Release" to create the nuget package from the project itself.
+
+Push package to server:
+To push package to our myget server, run something like this from the command line (passing in our API key):
+
+nuget push MyNuget.2.0.0.nupkg 96263aab-8ad2-4be2-8a96-bcc120f115ff -Source https://www.myget.org/F/solutionhead/api/v2/package
+							   8bdebb16-3847-4d0f-aa56-d7917ce51eed (?)
+* I can only seem to get this to work running the nuget exe from the .nuget folder; just copy the .nupkg file and run it from there.
+
+That should do it!

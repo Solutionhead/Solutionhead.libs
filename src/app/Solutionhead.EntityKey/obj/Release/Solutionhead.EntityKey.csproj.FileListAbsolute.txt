@@ -1,0 +1,5 @@
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityKey\bin\Release\Solutionhead.EntityKey.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityKey\bin\Release\Solutionhead.EntityKey.pdb
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityKey\obj\Release\Solutionhead.EntityKey.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityKey\obj\Release\Solutionhead.EntityKey.pdb
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityKey\obj\Release\Solutionhead.EntityKey.csprojResolveAssemblyReference.cache

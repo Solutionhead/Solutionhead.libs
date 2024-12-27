@@ -1,0 +1,10 @@
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\bin\Release\Solutionhead.EntityParser.dll.config
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\bin\Release\Solutionhead.EntityParser.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\bin\Release\Solutionhead.EntityParser.pdb
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\bin\Release\EntityFramework.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\bin\Release\EntityFramework.SqlServer.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\bin\Release\EntityFramework.xml
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\bin\Release\EntityFramework.SqlServer.xml
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\obj\Release\Solutionhead.EntityParser.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\obj\Release\Solutionhead.EntityParser.pdb
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.EntityParser\obj\Release\Solutionhead.EntityParser.csprojResolveAssemblyReference.cache

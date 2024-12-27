@@ -1,0 +1,5 @@
+E:\Repos\SolutionheadLibs\src\app\Solutionhead.Core\bin\Debug\Solutionhead.Core.dll
+E:\Repos\SolutionheadLibs\src\app\Solutionhead.Core\bin\Debug\Solutionhead.Core.pdb
+E:\Repos\SolutionheadLibs\src\app\Solutionhead.Core\obj\Debug\Solutionhead.Core.dll
+E:\Repos\SolutionheadLibs\src\app\Solutionhead.Core\obj\Debug\Solutionhead.Core.pdb
+E:\Repos\SolutionheadLibs\src\app\Solutionhead.Core\obj\Debug\Solutionhead.Core.csprojResolveAssemblyReference.cache

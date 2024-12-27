@@ -1,0 +1,15 @@
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\Solutionhead.TestFoundations.dll.config
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\Solutionhead.TestFoundations.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\Solutionhead.TestFoundations.pdb
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\EntityFramework.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\EntityFramework.SqlServer.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\Ploeh.AutoFixture.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\Ploeh.SemanticComparison.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\Solutionhead.EntityParser.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\EntityFramework.xml
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\EntityFramework.SqlServer.xml
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\Ploeh.AutoFixture.xml
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\bin\Release\Ploeh.SemanticComparison.xml
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\obj\Release\Solutionhead.TestFoundations.csprojResolveAssemblyReference.cache
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\obj\Release\Solutionhead.TestFoundations.dll
+E:\Repos\Solutionhead.libs\src\app\Solutionhead.TestFoundations\obj\Release\Solutionhead.TestFoundations.pdb

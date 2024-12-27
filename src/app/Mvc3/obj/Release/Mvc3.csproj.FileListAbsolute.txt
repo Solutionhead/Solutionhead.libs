@@ -1,0 +1,14 @@
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Solutionhead.Libs.Mvc3.dll
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Solutionhead.Libs.Mvc3.pdb
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Solutionhead.Web.Mvc3.dll
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Microsoft.Practices.Unity.dll
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Solutionhead.Web.Mvc3.pdb
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Microsoft.Practices.Unity.xml
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\Repos\Solutionhead.libs\src\app\Mvc3\obj\Release\Mvc3.csprojResolveAssemblyReference.cache
+E:\Repos\Solutionhead.libs\src\app\Mvc3\obj\Release\Solutionhead.Libs.Mvc3.dll
+E:\Repos\Solutionhead.libs\src\app\Mvc3\obj\Release\Solutionhead.Libs.Mvc3.pdb
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\System.Web.Mvc.dll
+E:\Repos\Solutionhead.libs\src\app\Mvc3\bin\Release\System.Web.Mvc.xml

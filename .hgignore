@@ -1,0 +1,10 @@
+syntax: glob
+*_ReSharper*
+packages/*
+*/obj/*
+*/bin/*
+Solutionhead.Libs.suo
+Solutionhead.Libs.sln.DotSettings.user
+*.orig
+*.csproj.user
+*.suo

@@ -1,0 +1,9 @@
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\bin\Release\Solutionhead.Core.Tests.dll
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\bin\Release\Solutionhead.Core.Tests.pdb
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\bin\Release\nunit.framework.dll
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\bin\Release\Solutionhead.Core.dll
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\bin\Release\Solutionhead.Core.pdb
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\bin\Release\nunit.framework.xml
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\obj\Release\Solutionhead.Core.Tests.csprojResolveAssemblyReference.cache
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\obj\Release\Solutionhead.Core.Tests.dll
+E:\Repos\Solutionhead.libs\src\test\Solutionhead.Core.Tests\obj\Release\Solutionhead.Core.Tests.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Solutionhead.Data.EntityFramework</id>
+    <version>3.4.6</version>
+    <title>Solutionhead.Data.EntityFramework</title>
+    <authors>Solutionhead Technologies, LLC</authors>
+    <owners>Solutionhead Technologies, LLC</owners>
+    <iconUrl>http://solutionhead.com/images/nugeticon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET extension library for working with Entity Framework</description>
+    <releaseNotes>Updated to support EntityFramework 5 and .NET 4.5</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>Entity Framework</tags>
+    <dependencies>
+      <dependency id="Solutionhead.Data" version="1.4.7" />
+      <dependency id="EntityFramework" version="6.1.0" />
+      <dependency id="CommonServiceLocator" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
